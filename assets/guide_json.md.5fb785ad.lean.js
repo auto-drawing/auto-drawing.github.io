@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,V as t}from"./chunks/framework.91564eae.js";const u=JSON.parse('{"title":"画图数据结构","description":"","frontmatter":{},"headers":[],"relativePath":"guide/json.md","filePath":"guide/json.md"}'),l={name:"guide/json.md"},p=t("",76),o=[p];function e(r,d,c,D,F,y){return n(),a("div",null,o)}const b=s(l,[["render",e]]);export{u as __pageData,b as default};
